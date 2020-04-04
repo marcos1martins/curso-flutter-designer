@@ -10,6 +10,10 @@
 4. responsivo - um exemplo de tela responsiva (...só cria um container com tamanho ajustável a tela, com altura e largura mínima e máxima)
 5. reponsivo_lc - nova versão do responsivo com LayoutBuilder (roda no Flutter web e Desktop)
 
+![capitura de tela](./img/tela4.png)
+
+![capitura de tela](./img/tela5.png)
+
 ![capitura de tela](./img/tela1.png)
 
 ![capitura de tela](./img/tela2.png)
