@@ -6,9 +6,10 @@
 
 1. drawer_com_setstate - exemplo de navegação com drawer usando o método setState() para atualizar a aplicação.
 2. navegacao_drawer_sem_setstate - exemplo de navegação com drawer mais eficiente
-3. drawer - implementação final do drawer utilizando rxdart
-4. responsivo - um exemplo de tela responsiva (...só cria um container com tamanho ajustável a tela, com altura e largura mínima e máxima)
-5. reponsivo_lc - nova versão do responsivo com LayoutBuilder (roda no Flutter web e Desktop)
+3. drawer - implementação final do drawer utilizando rxdart.
+4. responsivo - um exemplo de tela responsiva (...só cria um container com tamanho ajustável a tela, com altura e largura mínima e máxima).
+5. reponsivo_lc - nova versão do responsivo com LayoutBuilder (roda no Flutter web e Desktop).
+6. responsivo2 - Uma lista de itens que se adapta dinamicamente ao tamanho da tela(roda no Flutter web e Desktop).
 
 ![capitura de tela](./img/tela4.png)
 
